@@ -305,7 +305,7 @@ landing = html.Section([
     html.Div([
         html.Div([
             html.Div("Breast Cancer Awareness Month · ibu = “mother” in Indonesian", className="eyebrow rise r1"),
-            html.H1("Found early, she goes home.", className="rise r2"),
+            html.H1("Found early, more tomorrows together", className="rise r2"),
             html.P("When breast cancer is found while it is still in the breast, more than 99 of every 100 women are "
                    "alive five years later. Found after it has spread, it is 32 of 100. The difference is often one "
                    "appointment, and behind every number on this page is somebody’s mother.", className="lede big rise r3"),
